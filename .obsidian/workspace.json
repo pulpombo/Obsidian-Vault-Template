@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "07845c927013ade6",
+    "id": "3aeb1f2e9863f0b0",
     "type": "split",
     "children": [
       {
-        "id": "f5e99c814092d95b",
+        "id": "1906b1aa6e00bd9a",
         "type": "tabs",
         "children": [
           {
-            "id": "39a75685c1aa7b38",
+            "id": "b096daab5916df23",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -21,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "a33a3588dcd68ad8",
+    "id": "64b7c2a809574cc0",
     "type": "split",
     "children": [
       {
-        "id": "59c9bc836d4e93d7",
+        "id": "46bbf17db5c1af9f",
         "type": "tabs",
         "children": [
           {
-            "id": "e8f1bb51a09bbc32",
+            "id": "6a0502b211c65df1",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,7 +39,7 @@
             }
           },
           {
-            "id": "d32221e7255936ea",
+            "id": "d4e4f4d232db1376",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -54,18 +54,10 @@
             }
           },
           {
-            "id": "a200251096961f28",
+            "id": "7d94613f1381f263",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
-            }
-          },
-          {
-            "id": "08c920aa163e21c4",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
               "state": {}
             }
           }
@@ -76,15 +68,15 @@
     "width": 300
   },
   "right": {
-    "id": "d4d52844c8653401",
+    "id": "35dc220422318915",
     "type": "split",
     "children": [
       {
-        "id": "87377405bf7f64b4",
+        "id": "01e93e026b2609e3",
         "type": "tabs",
         "children": [
           {
-            "id": "d69ec32fd8c7d11b",
+            "id": "864b13595ee92f22",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -100,7 +92,7 @@
             }
           },
           {
-            "id": "e30efdbbe00b8046",
+            "id": "ad932dd838510781",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -111,7 +103,7 @@
             }
           },
           {
-            "id": "9d41c8a14dff8c9d",
+            "id": "1e7dd50f65f7526b",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -122,30 +114,10 @@
             }
           },
           {
-            "id": "41ebc80fea01d866",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              }
-            }
-          },
-          {
-            "id": "8b7ed053d37bf093",
+            "id": "f4e897f050633554",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
-            }
-          },
-          {
-            "id": "a4e01ffdf1d0fd17",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
               "state": {}
             }
           }
@@ -158,23 +130,14 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": true,
-      "command-palette:Open command palette": true,
+      "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
-      "daily-notes:Open today's daily note": false,
-      "zk-prefixer:Create new unique note": false,
       "canvas:Create new canvas": false,
-      "templates:Insert template": true,
-      "obsidian-spaced-repetition:Review flashcards": false,
-      "obsidian-importer:Open Importer": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "homepage:Open homepage": false,
-      "obsidian-advanced-slides:Show Slide Preview": false
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
-  "active": "e8f1bb51a09bbc32",
-  "lastOpenFiles": [
-    "Vault2024"
-  ]
+  "active": "b096daab5916df23",
+  "lastOpenFiles": []
 }
